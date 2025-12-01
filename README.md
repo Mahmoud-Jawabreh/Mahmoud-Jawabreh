@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Jawabreh</h1>
-<h3 align="center">A passionate Front-end developer</h3>
+<h3 align="center">A passionate Backend developer / Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" >
 
-- 🌱 I’m currently learning **Fullstack development - Udemy**
+- 🌱 I’m currently learning **Fullstack development - Udemy** / **Ai Programming with python and Tensorflow - Udacity**
 
 - 📫 How to reach me **mahmoud.jawabre@gmail.com**
 
