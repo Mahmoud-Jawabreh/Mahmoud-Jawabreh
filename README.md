@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer / Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" >
 
-- 🌱 I’m currently learning **Fullstack development - Udemy** / **Ai Programming with python and Tensorflow - Udacity**
+- 🌱 I’m currently learning **Fullstack development - Udemy** / **Intro to machine learning with TensorFlow - Udacity**
 
 - 📫 How to reach me **mahmoud.jawabre@gmail.com**
 
