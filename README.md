@@ -1,21 +1,107 @@
+```html
 <h1 align="center">Hi 👋, I'm Mahmoud Jawabreh</h1>
-<h3 align="center">A passionate Backend developer / Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" >
+<h3 align="center">Data Engineer | Python • SQL • Apache Spark • ETL/ELT</h3>
 
-- 🌱 I’m currently learning **Fullstack development - Udemy** / **Intro to machine learning with TensorFlow - Udacity**
-
-- 📫 How to reach me **mahmoud.jawabre@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/14hDLz1Eqze3jd8LXAQyumLVkLv3z5kvK/edit?usp=sharing&ouid=111317070699099370752&rtpof=true&sd=true](https://docs.google.com/document/d/14hDLz1Eqze3jd8LXAQyumLVkLv3z5kvK/edit?usp=sharing&ouid=111317070699099370752&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I always like to learn something new**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoud-jawabreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-jawabreh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@m_jawabreh720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@m_jawabreh720" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmoud_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoud_j" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/mahmoud-jawabreh">LinkedIn</a> •
+  <a href="mailto:mahmoud.jawabre@gmail.com">Email</a> •
+  📍 Riyadh, Saudi Arabia
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+
+### 👨‍💻 About Me
+
+I'm a Computer Science graduate focused on **Data Engineering**, with hands-on experience building batch and streaming data pipelines.
+
+I enjoy transforming raw data into reliable, analytics-ready datasets using modern data engineering tools and practices.
+
+- 🔭 Building data pipelines using **Python, PySpark, Delta Lake, Kafka, and Airflow**
+- 🌱 Currently exploring **Databricks, Lakeflow, Unity Catalog, and cloud data engineering**
+- 🏗️ Interested in **Lakehouse Architecture, ETL/ELT, Data Modeling, and Data Quality**
+- 🎓 **DataCamp Certified Associate Data Engineer**
+- 📍 Based in **Riyadh, Saudi Arabia**
+- 💼 Open to **Junior / Associate Data Engineer and ETL Engineer opportunities**
+- 📫 Reach me at **mahmoud.jawabre@gmail.com**
+
+<br clear="right"/>
+
+### 🛠️ Technical Skills
+
+**Programming & Data Processing**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Data Engineering & Orchestration**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Databases & Analytics**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Development & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### 🚀 What I've Been Working On
+
+- ⚙️ **Batch & Streaming Pipelines:** Data ingestion and transformations using PySpark and Apache Kafka.
+- 🏗️ **Lakehouse Architecture:** Bronze, Silver, and Gold data layers using Delta Lake.
+- 🔄 **Incremental Processing:** Delta MERGE, CDC concepts, SCD Type 2, and checkpoint recovery.
+- ✅ **Data Quality & Testing:** Schema validation, deduplication, quality checks, and Pytest.
+- 🐳 **Containerized ETL:** Docker Compose workflows connecting Python transformations with PostgreSQL.
+
+### 📂 Featured Projects
+
+**🐳 Dockerized Sales ETL Pipeline**
+
+A containerized ETL pipeline built using Python, Pandas, PostgreSQL, and Docker Compose.
+
+- Extracts and transforms sales data.
+- Loads processed records into PostgreSQL.
+- Uses Docker Compose for reproducible execution.
+
+[View Project](https://github.com/Mahmoud-Jawabreh/dockerized-sales-etl-pipeline)
+
+### 🎓 Certifications & Learning
+
+- 🏅 **DataCamp — Associate Data Engineer**
+- 🎓 **DataCamp — Data Engineer in Python Career Track**
+- 🎓 **Udacity — Introduction to Machine Learning with TensorFlow**
+- 🎓 **Udacity — Data Analyst Nanodegree**
+- 📚 **Currently Learning:** Databricks, Lakeflow, Unity Catalog, and advanced data engineering concepts.
+
+[Verify DataCamp Certification](https://www.datacamp.com/certificate/DEA0019533529086)
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-jawabreh" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/@m_jawabreh720" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+</a>
+<a href="https://www.leetcode.com/mahmoud_j" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving — one pipeline at a time.</i>
+</p>
+```
