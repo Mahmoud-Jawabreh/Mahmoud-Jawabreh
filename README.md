@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Mahmoud Jawabreh</h1>
 <h3 align="center">Data Engineer | Python • SQL • Apache Spark • ETL/ELT</h3>
 
@@ -104,4 +103,3 @@ A containerized ETL pipeline built using Python, Pandas, PostgreSQL, and Docker 
 <p align="center">
   <i>Always learning, building, and improving — one pipeline at a time.</i>
 </p>
-```
